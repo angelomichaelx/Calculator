@@ -1,5 +1,6 @@
 #Michael Angelo P. Biag
 #BSCOE 1-4
+#CALCULATOR WITH EXCEPTIONS
 
 def calculator():
     print("\n")
@@ -58,7 +59,7 @@ def calculator():
             return
 
     else:
-        print(f"{math_operator} is not a valid operator")
+        print("\033[1;31m"f"{math_operator} is not a valid operator")
 
 
 
