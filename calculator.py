@@ -15,15 +15,18 @@ if math_operator == "+":
     print(round(sum, 4))
 
 #If subtraction
-if math_operator == "-":
+elif math_operator == "-":
     the_difference = firstnumber - secondnumber
     print(round(the_difference, 4))
 
 #If multiplication
-if math_operator == "*":
+elif math_operator == "*":
     the_product = firstnumber * secondnumber
     print(round(the_product, 4))
-    
+
 #If division
+elif math_operator == "/":
+    the_quotient = firstnumber / secondnumber
+    print(round(the_quotient, 4))
 
 # Ask the user if they want to continue on using mini calculator (YES/NO)
