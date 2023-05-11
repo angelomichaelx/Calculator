@@ -69,7 +69,7 @@ def calculator():
     if Repeat == "YES":
             calculator()
     else:
-            print("THANK YOU FOR USING THE CALCULATOR!!")
+            print("Thank you!")
             exit()
 while True:
     calculator()
