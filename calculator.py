@@ -29,4 +29,7 @@ elif math_operator == "/":
     the_quotient = firstnumber / secondnumber
     print(round(the_quotient, 4))
 
+else:
+    print(f"{math_operator}is not a valid operator")
+    
 # Ask the user if they want to continue on using mini calculator (YES/NO)
