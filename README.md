@@ -2,8 +2,7 @@
 Basic calculators can do only addition, subtraction, multiplication and division mathematical calculations.Calculator helps users to calculate simple calculations with great speed and accessibility. 
 
 ## This repository holds the answer to problem: Create a Simple App Calculator with Exceptions.
-1.The application will ask the user to choose one of the four math operations (Addition, Subtraction, Multiplication and Division)
-2.The application will ask the user for two numbers
+1.The application will ask the user to choose one of the four math operations (Addition, Subtraction, Multiplication and Division) 2.The application will ask the user for two numbers
 3.Display the result
 4.The application will ask if the user wants to try again or not.
 5.If yes, repeat Step 1.
