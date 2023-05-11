@@ -4,7 +4,10 @@
 
 #choosing mathematical operation that will be used based on the user ( Addition(+), Subtraction(-), Multiplication(x), Division(/))
 math_operator = input("Enter an Operator ( Addition(+), Subtraction(-), Multiplication(x), Division(/))")
+
 #enter First number and Second number
+firstnumber = float(input("Enter the 1st number : ")) 
+secondnumber = float(input("Enter the 2nd number : ")) 
 
 #If addition
  
