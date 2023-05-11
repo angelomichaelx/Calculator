@@ -1,5 +1,5 @@
 # Calculator
-#Basic calculators can do only addition, subtraction, multiplication and division mathematical calculations.Calculator helps users to calculate simple calculations with great speed and accessibility. 
+Basic calculators can do only addition, subtraction, multiplication and division mathematical calculations.Calculator helps users to calculate simple calculations with great speed and accessibility. 
 
 ## This repository holds the answer to problem: Create a Simple App Calculator with Exceptions.
 1.The application will ask the user to choose one of the four math operations (Addition, Subtraction, Multiplication and Division)
